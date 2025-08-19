@@ -1,4 +1,4 @@
-public class Harry_Age_Calculation {
+public class Age_Calculation {
     public static void main(String[] args){
         int birth_year = 2000;
         int current_year = 2024;
